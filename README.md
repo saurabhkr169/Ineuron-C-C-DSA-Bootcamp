@@ -1,1 +1,1 @@
-# Ineuron-C-C-DSA-Bootcamp
+# Ineuron-C-C++-DSA-Bootcamp
